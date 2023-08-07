@@ -4,7 +4,7 @@ function leapYear() {
         document.getElementById("result").innerText = year + " is a leap year";
     }
     else {
-        document.getElementById("result").innerText = year + "is not a leap year";
+        document.getElementById("result").innerText = year + " is not a leap year";
     }
 }
 
